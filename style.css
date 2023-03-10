@@ -101,6 +101,7 @@ header nav {
     display: flex;
     gap: 2.4em;
     margin-top: 0.6em;
+    color: var(--Dark-grayish-blue);
   }
 }
 
